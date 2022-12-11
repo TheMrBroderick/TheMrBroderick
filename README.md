@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TheMrBroderick/congifure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TheMrBroderick/azure-network-protocols)
 - <b>Proton VPN</b>
-  - - [VPN Setup and Usage](https://github.com/TheMrBroderick/vpn-setup)
+  - [VPN Setup and Usage](https://github.com/TheMrBroderick/vpn-setup)
 
 <h2> 🤳 Connect with me:</h2>
 
