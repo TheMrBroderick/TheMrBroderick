@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/TheMrBroderick/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TheMrBroderick/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TheMrBroderick/congifure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TheMrBroderick/configure-ad)
   - [Resetting Passwords and Unlocking Accounts](https://github.com/TheMrBroderick/resetting-passwords)
 
 <h2> 🤳 Connect with me:</h2>
