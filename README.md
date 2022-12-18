@@ -6,11 +6,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/TheMrBroderick/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/TheMrBroderick/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TheMrBroderick/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TheMrBroderick/congifure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TheMrBroderick/azure-network-protocols)
-- <b>Proton VPN</b>
-  - [VPN Setup and Usage](https://github.com/TheMrBroderick/vpn-setup)
+  - [Reseting Passwords and Unlocking Accounts](https://github.com/TheMrBroderick/azure-network-protocols)
 
 <h2> 🤳 Connect with me:</h2>
 
