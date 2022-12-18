@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TheMrBroderick/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TheMrBroderick/congifure-ad)
-  - [Reseting Passwords and Unlocking Accounts](https://github.com/TheMrBroderick/azure-network-protocols)
+  - [Resetting Passwords and Unlocking Accounts](https://github.com/TheMrBroderick/resetting-passwords)
 
 <h2> 🤳 Connect with me:</h2>
 
