@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon, an <a href="www.linkedin.com/in/it-brandon-broderick-79117825b/">IT Professional</a>. </h1>
+<h1>Hi, I'm Brandon, an <a href="www.linkedin.com/in/TheMrBroderick">IT Professional</a>. </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Brandon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/it-brandon-broderick-79117825b
+[linkedin]: www.linkedin.com/in/TheMrBroderick
