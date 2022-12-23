@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Brandon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: www.linkedin.com/in/IT-brandon-broderick-79117825b
